@@ -1,3 +1,3 @@
-Last run: 2026-09-20 05:00:04 CEST
+Last run: 2026-09-21 05:00:04 CEST
 Host: azure-eu
 Script: fetch_ETFs.sh
